@@ -1,4 +1,4 @@
-package com.interview.unravel.stream;
+package com.interview.unravel.concurrency;
 
 public class Producer implements Runnable {
     private final LogProcessor processor;

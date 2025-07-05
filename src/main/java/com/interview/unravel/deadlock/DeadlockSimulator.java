@@ -1,4 +1,4 @@
-package com.interview.unravel.concurrency;
+package com.interview.unravel.deadlock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

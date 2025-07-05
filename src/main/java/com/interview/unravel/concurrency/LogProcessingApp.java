@@ -1,4 +1,4 @@
-package com.interview.unravel.stream;
+package com.interview.unravel.concurrency;
 
 public class LogProcessingApp {
 	public static void main(String[] args) {
