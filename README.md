@@ -101,7 +101,7 @@ This project implements critical backend improvements to enhance **concurrency**
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourname/unravel-backend.git
+git clone https://github.com/kumarvimlesh/unravel.git
 cd unravel-backend
 
 # Build and run the app
